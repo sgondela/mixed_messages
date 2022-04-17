@@ -31,13 +31,13 @@ To clone and run this application, you'll need Git and Node.js installed on your
 
 ```bash
 # Clone this repository
-`$ git clone https://github.com/sgondela/mixed-messages`
+$ git clone https://github.com/sgondela/mixed-messages
 
 # Go into the repository:
-`$ cd mixed-messages`
+$ cd mixed-messages
 
 # Run program:
-`$ node script.js`
+$ node script.js
 ```
 
 
