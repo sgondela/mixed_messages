@@ -31,7 +31,7 @@ To clone and run this application, you'll need Git and Node.js installed on your
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/sgondela/mixed-messages
+$ git clone https://github.com/sgondela/mixed-messages.git
 
 # Go into the repository:
 $ cd mixed-messages
